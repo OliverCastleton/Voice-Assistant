@@ -46,3 +46,4 @@ while True:
                 
         except Exception as e:
                     print("An error ocurred : {}".format(e))
+print("Buongiorno")
